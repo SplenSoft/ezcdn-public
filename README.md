@@ -2,8 +2,6 @@
 
 ![UnityAssetStoreBanner_EZCDN_card](https://github.com/SplenSoft/ezcdn-public/assets/4369778/4dd1520c-a52b-46be-8b42-5cb4d536d778)
 
-## Description
-
 An addressables-free suite that automatically handles the Unity Cloud Content Delivery API and packaging/deploying assetbundles while providing several tools to make asset management easy.
 
 ## Getting Started
