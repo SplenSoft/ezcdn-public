@@ -41,15 +41,19 @@ You need to fill out your Project ID and API key.
 
 ![image](https://github.com/SplenSoft/ezcdn-public/assets/4369778/3c9ebf80-c365-4fee-972f-7247330655e7)
 
-The default environment is 'production', but you may add as many as you wish. Typically, developers use non-production environments for testing
-
 #### Get your environment IDs
 * Go to the [Unity Cloud Dashboard](https://cloud.unity.com/) (and sign in, if needed) and click your project
 * Scroll down to the bottom of the page and click 'Environments'. Your keys will appear here
 
 ![image](https://github.com/SplenSoft/ezcdn-public/assets/4369778/16b0fd7e-c99a-4a2a-938e-322c7321ef37)
 
-Once you're done entering your environment information, you may close the Environment Settings Window.
+The default environment is 'production', but you may add as many as you wish. Typically, developers use non-production environments for testing.
+Once you're done entering your environments information, you may close the Environment Settings Window.
 
 ### Configure your runtimes
+
+Back in the settings window, you can now configure all the runtimes your project will run on. Don't forget to include your editor for testing!
+![image](https://github.com/SplenSoft/ezcdn-public/assets/4369778/5c18fcfb-f0d6-4970-bd32-4cb712739509)
+Generally speaking, the choices are mostly obvious for [Platform](https://docs.unity3d.com/ScriptReference/RuntimePlatform.html) and [Build Target](https://docs.unity3d.com/ScriptReference/BuildTarget.html).
+
 
