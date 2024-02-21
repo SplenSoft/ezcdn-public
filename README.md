@@ -26,13 +26,30 @@ If you've already set up Unity Services with CCD in your project, you can skip t
 
 You need to fill out your Project ID and API key.
 
-### Get your project ID
+#### Get your project ID
 * Go to the [Unity Cloud Dashboard](https://cloud.unity.com/) (and sign in, if needed) and click your project. The Project ID will be on that page
 
 ![image](https://github.com/SplenSoft/ezcdn-public/assets/4369778/9e14c8d2-726a-4fc0-a908-d219c3ae1dc3)
 
-### Get your API key
+#### Get your API key
 * Go to the [Unity Cloud Dashboard Products Page](https://cloud.unity.com/home/products) and click Cloud Content Delivery
 * On the left nav bar, click 'API Key'
 
 ![image](https://github.com/SplenSoft/ezcdn-public/assets/4369778/dd4ea1ad-ac8a-480f-92e6-5dadf491de59)
+
+* Back in the Unity project, click Manage Environments in the Asset Bundle Manager Settings window
+
+![image](https://github.com/SplenSoft/ezcdn-public/assets/4369778/3c9ebf80-c365-4fee-972f-7247330655e7)
+
+The default environment is 'production', but you may add as many as you wish. Typically, developers use non-production environments for testing
+
+#### Get your environment IDs
+* Go to the [Unity Cloud Dashboard](https://cloud.unity.com/) (and sign in, if needed) and click your project
+* Scroll down to the bottom of the page and click 'Environments'. Your keys will appear here
+
+![image](https://github.com/SplenSoft/ezcdn-public/assets/4369778/16b0fd7e-c99a-4a2a-938e-322c7321ef37)
+
+Once you're done entering your environment information, you may close the Environment Settings Window.
+
+### Configure your runtimes
+
