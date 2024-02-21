@@ -13,6 +13,7 @@ You can download the package on the Unity Asset Store.
 Here's a video tutorial: 
 
 ### Installation and Setup
+* [Enable Unity Services in your project](https://docs.unity3d.com/Manual/SettingUpProjectServices.html), if you haven't already
 * Get the package from the Unity Asset Store and install it into your project. If you need help with this, refer to the [official documentation](https://docs.unity3d.com/Manual/AssetPackagesPurchase.html)
 * If you've installed the package correctly, there will be a new Menu at the top of the screen called SplenSoft, if it wasn't there already.
 * Using that menu, Navigate to SplenSoft -> AssetBundles -> Settings
