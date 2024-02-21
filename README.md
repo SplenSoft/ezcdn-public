@@ -53,7 +53,20 @@ Once you're done entering your environments information, you may close the Envir
 ### Configure your runtimes
 
 Back in the settings window, you can now configure all the runtimes your project will run on. Don't forget to include your editor for testing!
+
 ![image](https://github.com/SplenSoft/ezcdn-public/assets/4369778/5c18fcfb-f0d6-4970-bd32-4cb712739509)
+
 Generally speaking, the choices are mostly obvious for [Platform](https://docs.unity3d.com/ScriptReference/RuntimePlatform.html) and [Build Target](https://docs.unity3d.com/ScriptReference/BuildTarget.html).
+
+### Generate Buckets
+You can now click "Generate Buckets"! (Advanced users - if you've already set up buckets on the Unity Dashboard, you can check the 'Manually Enter Ids' button and use your existing Bucket ids. You can skip this section.)
+
+The Unity CLI will now run in the background and set up your new buckets. Check the console log for any errors. If you've set everything up correctly, you should see your new Bucket Ids in the settings window.
+
+![image](https://github.com/SplenSoft/ezcdn-public/assets/4369778/afc4da62-27a9-4cb8-91de-8de6059bc7b9)
+
+That's it! EZ-CDN is now set up and is ready to use in your game design. You can go back and modify these settings at any time.
+
+## Designing your game
 
 
