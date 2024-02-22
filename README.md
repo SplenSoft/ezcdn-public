@@ -10,6 +10,6 @@ Here's a video tutorial:
 
 ## Documentation
 * [Get Started](https://github.com/SplenSoft/ezcdn-public/wiki/Getting-Started)
-* [Designing Your Game With EZ-CDN]()
+* [Designing Your Game With EZ-CDN](https://github.com/SplenSoft/ezcdn-public/wiki/Designing-with-EZ%E2%80%90CDN)
 
 
