@@ -15,3 +15,4 @@ Here's a video tutorial:
 * [Get Started](https://github.com/SplenSoft/ezcdn-public/wiki/Getting-Started)
 * [Designing Your Game With EZ-CDN](https://github.com/SplenSoft/ezcdn-public/wiki/Designing-with-EZ%E2%80%90CDN)
 * [API Reference](https://splensoft.com/ezcdn/api-ref/)
+* [Limitations](https://github.com/SplenSoft/ezcdn-public/wiki/Limitations)
