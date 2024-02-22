@@ -14,3 +14,4 @@ Here's a video tutorial:
 * [Why use it?](https://github.com/SplenSoft/ezcdn-public/wiki/Why-use-EZ%E2%80%90CDN%3F)
 * [Get Started](https://github.com/SplenSoft/ezcdn-public/wiki/Getting-Started)
 * [Designing Your Game With EZ-CDN](https://github.com/SplenSoft/ezcdn-public/wiki/Designing-with-EZ%E2%80%90CDN)
+* [API Reference](https://splensoft.com/ezcdn/api-ref/)
