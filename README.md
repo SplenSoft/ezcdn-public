@@ -8,6 +8,9 @@ EZ-CDN handles the tedium of API connections, client line interfaces and catalog
 
 You can [download the package on the Unity Asset Store](https://u3d.as/3eTj).
 
+Video Guide Here: 
+[![Youtube Video Guide](https://github.com/SplenSoft/ezcdn-public/assets/4369778/d72ff393-550e-45ac-ac6e-78c6be8fa644)](https://youtu.be/vaKyBN2vAPs?si=OQEo6Uutn2L8t33F "EZ-CDN Guide")
+
 ## Documentation
 * [Why use it?](https://github.com/SplenSoft/ezcdn-public/wiki/Why-use-EZ%E2%80%90CDN%3F)
 * [Get Started](https://github.com/SplenSoft/ezcdn-public/wiki/Getting-Started)
